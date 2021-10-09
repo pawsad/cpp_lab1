@@ -1,1 +1,2 @@
-# cpp_lab1
+# (C++) Lab1 
+Przykładowy program do pobrania z GIT
